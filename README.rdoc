@@ -1,3 +1,7 @@
-= JcarouselRails
+= jcarousel-rails
 
-This project rocks and uses MIT-LICENSE.
+This is a wrapper for the jcarousel javascript plugin version 0.2.9.
+Documentation here: http://sorgalla.com/jcarousel/
+
+
+

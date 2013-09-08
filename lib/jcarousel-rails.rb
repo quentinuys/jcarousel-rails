@@ -1,2 +1,1 @@
-module JcarouselRails
-end
+require 'jcarousel/rails'
